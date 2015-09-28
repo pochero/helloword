@@ -1,3 +1,5 @@
 # helloword
-esta es la ayuda de mi app
+esta es la ayudde mi app
 okey makey
+
+añado mas cosas y borro de la primera linea una letra
